@@ -1,3 +1,5 @@
+MIT License
+
 3D Pixel Graphics Toolkit copyright © 2022 Kitbashery
 
 Licensed under the MIT License see [MIT License](https://github.com/Kitbashery/3D-Pixel-Graphics-Toolkit/blob/main/LICENSE).
