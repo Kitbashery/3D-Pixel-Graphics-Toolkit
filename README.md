@@ -15,6 +15,8 @@
 
 HDRP shader graphs for creating pixel-style graphics in Unity 3D.
 
+[![Youtube](https://img.youtube.com/vi/wWMcH4FSE44/0.jpg)](https://www.youtube.com/watch?v=wWMcH4FSE44)
+
 ## Features:
 
 * Pixelate Shader
