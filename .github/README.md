@@ -8,8 +8,8 @@
 [![GitHub](https://img.shields.io/github/license/kitbashery/modular-ai.svg)](https://github.com/Kitbashery/3D-Pixel-Graphics-Toolkit/blob/main/LICENSE.md)
 [![OpenUPM](https://img.shields.io/badge/Install-openUPM-blue)](https://openupm.com/packages/com.kitbashery.3d-pixel-graphics-toolkit.html)
 [![Latest](https://img.shields.io/badge/Dev%20Kit-.unitypackage-blue)](https://github.com/Kitbashery/3D-Pixel-Graphics-Toolkit/releases/download/Development-Package/Kitbashery_3D_Pixel_Graphics_Toolkit.unitypackage)
-[![AssetStore](https://img.shields.io/badge/Download%20LTS-Unity%20Asset%20Store-blue)](https://assetstore.unity.com/packages/slug/233054)
-[![Documentation](https://img.shields.io/badge/Docs-Kitbashery.com-blue)](https://kitbashery.com/docs/3d-pixel-graphics-toolkit)
+[![Documentation](https://img.shields.io/badge/Docs-Kitbashery.com-%23ffaf0c)](https://kitbashery.com/docs/3d-pixel-graphics-toolkit)
+[![Contributing](https://img.shields.io/badge/Contribute-guidelines-lightgrey)](https://github.com/Kitbashery/.github/blob/main/.github/CONTRIBUTING.md)
 
 # 3D Pixel Graphics Toolkit
 
