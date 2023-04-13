@@ -53,4 +53,4 @@ It should also be noted that although primitive meshes such as the ramp, dome an
 Also if you notice textures are not tiling then try using material instancing instead of static batching.
 
 ---- 
-The name Kitbashery & all associated images Copyright &copy; 2022 Kitbashery. All Rights Reserved.
+The name Kitbashery & all associated images Copyright &copy; 2023 Kitbashery. All Rights Reserved.
